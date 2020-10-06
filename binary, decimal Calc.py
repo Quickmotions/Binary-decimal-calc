@@ -1,6 +1,7 @@
 """
 calculator Project
 """
+from tkinter import *
 
 int1 = 0
 int2 = 0
